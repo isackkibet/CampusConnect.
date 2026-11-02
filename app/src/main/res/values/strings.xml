@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CampusConnect</string>
+    <string name="notification_channel_updates">Campus updates</string>
+    <string name="notification_channel_updates_description">Announcements, messages and campus activity</string>
+</resources>
